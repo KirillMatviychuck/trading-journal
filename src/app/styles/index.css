@@ -4,8 +4,10 @@
 @import './reset.scss';
 
 .app {
-  font: var(--font-m);
-  background: var(--bg);
+  font-family: var(--robo);
+  background-color: var(--bg);
   color: var(--primary-color);
   min-height: 100vh;
+  display: flex;
+  border: 1px solid magenta;
 }
