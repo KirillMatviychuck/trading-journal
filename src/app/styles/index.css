@@ -5,9 +5,8 @@
 
 .app {
   font-family: var(--robo);
-  background-color: var(--bg);
+  background-color: var(--bg-color-main);
   color: var(--primary-color);
   min-height: 100vh;
   display: flex;
-  border: 1px solid magenta;
 }
